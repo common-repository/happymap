@@ -1,0 +1,12 @@
+.happymap {
+  position: relative;
+  width: 600px;
+  height: 300px;
+  margin: 0 auto;
+  background: #f4f4f4;
+}
+.happymap iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
